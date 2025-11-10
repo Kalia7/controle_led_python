@@ -29,7 +29,10 @@ Monte o circuito conforme o esquema abaixo:
 | ------------ | ------------------------------------ | ------------- |
 | 10           | Anodo do LED (via resistor de 220 Ω) | Saída digital |
 | GND          | Catodo do LED                        | Terra         |
-![[Pasted image 20251109224721.png]]
+
+![Montagem do circuito](arduino/controle_led.png "Visual do circuito montado")
+
+
 **Resumo:**  
 O LED é ligado ao pino digital **10** através de um resistor de **220 Ω** e ao **GND** .
 
